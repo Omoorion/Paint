@@ -1,2 +1,2 @@
 # Paint
-## An online, mediocare, paint program.
+## An online, mediocre, paint program.
