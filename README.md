@@ -1,2 +1,2 @@
 # Paint
-## An online paint program.
+## An online paint program (In development).
